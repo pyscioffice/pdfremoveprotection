@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - ipywidgets
+  - voila
+  - qpdf
